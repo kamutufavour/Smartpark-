@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "564647118407",
+    "project_id": "smart-park-7a409",
+    "storage_bucket": "smart-park-7a409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564647118407:android:62e8bc155d5c40de741362",
+        "android_client_info": {
+          "package_name": "com.example.authfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564647118407-56g9fqoh3e5u5fv8fa8620juqfc3obl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_VIUtOf_VEMT0GjtMsgO5o4DlaYiknuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564647118407-56g9fqoh3e5u5fv8fa8620juqfc3obl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564647118407:android:67565f476a9180a5741362",
+        "android_client_info": {
+          "package_name": "com.example.smartpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564647118407-56g9fqoh3e5u5fv8fa8620juqfc3obl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_VIUtOf_VEMT0GjtMsgO5o4DlaYiknuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564647118407-56g9fqoh3e5u5fv8fa8620juqfc3obl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
